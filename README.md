@@ -3,3 +3,4 @@
 <ul>
 <li>Pronouns: He/him She/her</li>
 <li>I’m currently learning Java</li>
+<li>will make this cooler eventually</li>
